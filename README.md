@@ -1,2 +1,3 @@
-# learn-sql
-数据库系统的学习笔记
+# learn-notebook
+
+## 1.learn sql
